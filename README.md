@@ -16,6 +16,8 @@ I'm constantly looking forward to opportunities where I can apply my diverse ski
 ![Linked-In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
+---
+
 
 ## Skills
 
@@ -28,32 +30,25 @@ I'm constantly looking forward to opportunities where I can apply my diverse ski
 
 
 ### Frameworks
-
 frameword data here
-### Databases
 
-Database Data here
+###
 
-<!-- 
-# Hello, I'm John Doe!
+### Databasing
 
-I'm a software engineer with a passion for open source. I have a particular interest in JavaScript and its ecosystem.
-
-## My Skills
-- JavaScript, Python, Ruby
-- React, Vue, Angular
-- Node.js, Express.js
-- MongoDB, PostgreSQL, MySQL
-- AWS, Docker, CI/CD
-
-## 📫 How to reach me
-
-- Twitter: [@johnDoe](https://twitter.com/johnDoe)
-- LinkedIn: [John Doe](https://www.linkedin.com/in/johndoe/)
-
- -->
+1.  Micrsoft Excel
+2.  SQL
+3.  Sequalize
+4.  MongoDB
+5.  JawsDB
 
 
+## Depployed/Active Projects
+
+1. The Great App Advisor
+2. Google Chrome Scraping Extention
+3. Coin Collection App
+4. 
 
 <!--
 **Peterksharma/peterksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
