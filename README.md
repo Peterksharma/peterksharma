@@ -2,21 +2,22 @@ https://github.com/Peterksharma/peterksharma/assets/120028593/2e2e51d7-594a-440d
 
 ## About Me
 
-Proactive and solutions-oriented Software Engineer with a deep-seated passion for both individual and collaborative problem solving. As a self-driven learner, I bring a unique blend of software development and electrical engineering skills to the table. I have a comprehensive understanding of JavaScript, MySQL, and the MERN stack (MongoDB, Express.js, React.js, and Node.js), honed through practical application and continuous learning.
+Proactive and solutions-oriented Software Engineer with a deep-seated passion for both individual and collaborative problem solving. As a self-driven learner, I bring a unique blend of software development and real life problem solving skills to the table.
 
-An avid enthusiast of C++, I have applied my skills in the intriguing realm of 3D printer programming. My journey has also led me to delve into the world of electrical engineering, with a particular interest in creating and integrating hardware and software solutions.
+I have applied my skills in the realm of 3D printer programming. My journey has also led me to delve into the world of electrical engineering, with a particular interest in radios.
 
-One of my proudest achievements is building my own portfolio website from scratch, and not stopping at just that – I proceeded to construct a server to host it. My portfolio website is currently being hosted on a Raspberry Pi at my home, utilizing Linux for server management, showcasing my full-stack capabilities, hands-on learning approach, and my ability to manage systems at both the hardware and software levels.
+One of my proudest achievements is building my own portfolio website from scratch, and not stopping at just that – I proceeded to construct a server to host it. My portfolio website is currently being hosted on a Raspberry Pi at my home, utilizing Apache for server management, showcasing my full-stack capabilities, hands-on learning approach, and my ability to manage systems at both the hardware and software levels.
 
-I'm constantly looking forward to opportunities where I can apply my diverse skill set, create user-centered experiences, and leverage the power of code to create transformative solutions.
+I'm constantly looking forward to opportunities where I can apply my diverse skill set, create user-centered experiences, and leverage the power of code to create transformative solutions to real problems.
 <br>
 
 ## Catch up with me
 
 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-![Linked-In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://peterksharma.github.io/portfolio/)
+[![Linked-In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterksharma)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peterksharma@gmail.com)
+
 
 ---
 
