@@ -1,6 +1,6 @@
-https://github.com/Peterksharma/peterksharma/assets/120028593/2e2e51d7-594a-440d-a120-b18465957202
-
 <div align="center">
+
+![](https://media.giphy.com/media/OFt70ATtDBKDGXejbY/giphy.gif)
 
 ## About Me
 
