@@ -54,17 +54,4 @@ I'm constantly looking forward to opportunities where I can apply my diverse ski
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## Depployed/Active Projects
-
-<!-- The Great App Advisor
-
-Google Chrome Scraping Extention
-
-Coin Collection App 
-
-Deployed Website
-
--->
-
-
 </div>
