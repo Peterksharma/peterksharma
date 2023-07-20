@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ![](https://media.giphy.com/media/OFt70ATtDBKDGXejbY/giphy.gif) -->
+![banner1 2](https://github.com/Peterksharma/peterksharma/assets/120028593/e0de9208-306c-4894-8494-26149c7a2ffc)
 
 <iframe src="https://giphy.com/embed/OFt70ATtDBKDGXejbY" width="480" height="213" frameBorder="0" class="giphy-embed"></iframe><p><a href="https://giphy.com/gifs/OFt70ATtDBKDGXejbY"></a></p>
 
