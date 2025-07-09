@@ -3,25 +3,15 @@
 ![banner1 2](https://github.com/Peterksharma/peterksharma/assets/120028593/e0de9208-306c-4894-8494-26149c7a2ffc)
 
 
-# About Me
+## About Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://peterksharma.github.io/portfolio/)
-[![Linked-In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterksharma)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peterksharma@gmail.com)
+From building restaurant technology for blind entrepreneurs to architecting enterprise data systems, my career has been defined by one constant: **technology should serve people**.
 
-</div>
+Currently serving as Product Owner & Solutions Architect at XcelPros, where I bridge technical innovation with business strategy. I design data lake architectures, lead RPA automation initiatives, and mentor development teams while ensuring that every technical decision creates real value for end users.
 
-Proactive and solutions-oriented Software Engineer with a deep-seated passion for both individual and collaborative problem solving. As a self-driven learner, I bring a unique blend of software development and real life problem solving skills to the table.
+My diverse background—from Eagle Scout leadership to Michelin-trained precision to accessibility advocacy—gives me a unique perspective on technical challenges. I understand that the best solutions combine rigorous system design with deep empathy for the people who depend on them.
 
-I have applied my skills in the realm of 3D printer programming. My journey has also led me to delve into the world of electrical engineering, with a particular interest in radios.
-
-One of my proudest achievements is building my own portfolio website from scratch, and not stopping at just that – I proceeded to construct a server to host it. My portfolio website is currently being hosted on a Raspberry Pi at my home, utilizing Apache for server management, showcasing my full-stack capabilities, hands-on learning approach, and my ability to manage systems at both the hardware and software levels.
-
-I'm constantly looking forward to opportunities where I can apply my diverse skill set, create user-centered experiences, and leverage the power of code to create transformative solutions to real problems.
-<br>
- 
- ___
-<div align="center">
+**Always building with purpose. Always learning. Always serving.**
 
 ### Operating Systems
 
@@ -37,21 +27,20 @@ I'm constantly looking forward to opportunities where I can apply my diverse ski
 ![MarkDown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Skills
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Bootsrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Technical Expertise
+### **Architecture & Systems**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+### **Product & Leadership**
+![Product Management](https://img.shields.io/badge/Product%20Management-FF6B6B?style=for-the-badge)
+![Technical Leadership](https://img.shields.io/badge/Technical%20Leadership-4ECDC4?style=for-the-badge)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-45B7D1?style=for-the-badge)
+
+### **Development & Automation**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![RPA](https://img.shields.io/badge/RPA-FF9500?style=for-the-badge)
 
 </div>
