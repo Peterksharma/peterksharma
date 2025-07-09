@@ -19,8 +19,12 @@ My diverse background—from Eagle Scout leadership to Michelin-trained precisio
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Languages 
+### Infrastructure & Tools
+- **Home Lab Setup** - Raspberry Pi server hosting and Apache configuration
+- **3D Printer Automation** - Custom programming for manufacturing workflows
+- **Radio Electronics** - Hardware integration projects
 
+### Languages 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -42,5 +46,13 @@ My diverse background—from Eagle Scout leadership to Michelin-trained precisio
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![RPA](https://img.shields.io/badge/RPA-FF9500?style=for-the-badge)
+
+
+### **Contact Me**
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://peterksharma.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterksharma)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peterksharma@gmail.com)
+[![Schedule Meeting](https://img.shields.io/badge/Schedule%20Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](your-calendly-link)
+
 
 </div>
