@@ -5,12 +5,12 @@
 
 ## About Me
 
-From building restaurant technology for blind entrepreneurs to architecting enterprise data systems, my career has been defined by one constant: **technology should serve people**.
+From building restaurant technology for blind entrepreneurs to architecting enterprise data systems, my career has been defined by one constant...
+**technology should serve people**.
 
 Currently serving as Product Owner & Solutions Architect at XcelPros, where I bridge technical innovation with business strategy. I design data lake architectures, lead RPA automation initiatives, and mentor development teams while ensuring that every technical decision creates real value for end users.
 
 My diverse background—from Eagle Scout leadership to Michelin-trained precision to accessibility advocacy—gives me a unique perspective on technical challenges. I understand that the best solutions combine rigorous system design with deep empathy for the people who depend on them.
-
 **Always building with purpose. Always learning. Always serving.**
 
 ### Operating Systems
@@ -20,9 +20,9 @@ My diverse background—from Eagle Scout leadership to Michelin-trained precisio
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Infrastructure & Tools
-- **Home Lab Setup** - Raspberry Pi server hosting and Apache configuration
-- **3D Printer Automation** - Custom programming for manufacturing workflows
-- **Radio Electronics** - Hardware integration projects
+**Home Lab Setup** - Raspberry Pi server hosting and Apache configuration
+**3D Printer Automation** - Custom programming for manufacturing workflows
+**Radio Electronics** - Hardware integration projects
 
 ### Languages 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
