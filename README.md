@@ -8,8 +8,6 @@
 From building restaurant technology for blind entrepreneurs to architecting enterprise data systems, my career has been defined by one constant...
 **technology should serve people**.
 
-Currently serving as Product Owner & Solutions Architect at XcelPros, where I bridge technical innovation with business strategy. I design data lake architectures, lead RPA automation initiatives, and mentor development teams while ensuring that every technical decision creates real value for end users.
-
 My diverse background—from Eagle Scout leadership to Michelin-trained precision to accessibility advocacy—gives me a unique perspective on technical challenges. I understand that the best solutions combine rigorous system design with deep empathy for the people who depend on them.
 **Always building with purpose. Always learning. Always serving.**
 
