@@ -4,9 +4,7 @@
 
 
 ## About Me
-
-My diverse background—from Eagle Scout leadership to Michelin-trained precision to accessibility advocacy—gives me a unique perspective on technical challenges. I understand that the best solutions combine rigorous system design with deep empathy for the people who depend on them.
-**Always building with purpose. Always learning. Always serving.**
+**Always building with purpose. Always learning.**
 
 
 
