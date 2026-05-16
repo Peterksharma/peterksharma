@@ -15,15 +15,7 @@
 
 ### 👋 About
 
-Director of IT at Arteagas Food Center · Co-founder at Aartisan · ex-XcelPros Full Stack Engineer.
-
-Bartender → Solutions Architect in 18 months. Kitchen-trained, production-tested. I build systems that serve people, not the other way around.
-
-### 🛠️ Currently
-
-- 🏗️ Architecting IT and data systems at Arteagas
-- 🚀 Co-building **Aartisan** — helping creators get found online
-- 🧪 Shipping with TypeScript, Node, Next.js, and whatever the job actually needs
+Director of IT at Arteagas Food Center 
 
 ### 🤖 How I Work
 
